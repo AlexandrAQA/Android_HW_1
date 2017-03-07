@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_HW_1</string>
+    <string name="myscreen">этот экран описан в myscreen.xml</string>
+    <string name="myscreen_xml">Этот экран описан в Myscreen.xml</string>
+    <string name="orientation">string_orientation</string>
+    <string name="butt">Call</string>
+</resources>
